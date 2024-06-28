@@ -1,4 +1,4 @@
-# <h1 align="center">ZhiJun4030个人Python开发者🤔</h1>
+# <h1 align="center">HeZhijun4030个人Python开发者🤔</h1>
 一个有梦想的中学生，致力于Python开发
 我的邮箱:zhijun4030@outlook.com
 QQ:419783120
@@ -12,7 +12,7 @@ QQ:419783120
 ---
 <br/>
 
-<h1 align="center">ZhiJun4030 Personal python developer🤔</h1>
+<h1 align="center">HeZhijun4030 Personal python developer🤔</h1>
 
 A middle school student with a dream, dedicated to python developm
 📫:zhijun4030@outlook.com
