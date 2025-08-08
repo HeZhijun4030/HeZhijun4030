@@ -24,7 +24,7 @@
 ![Static Badge](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=oracle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-C++-purple?style=for-the-badge&logoColor=white)
 
-### My usual IDEA
+### My usual IDE
 ![Static Badge](https://img.shields.io/badge/-visual_studio-purple?style=for-the-badge&logo=visualstudio)
 ![Static Badge](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-NVim-greem?style=for-the-badge&logo=neovim&logoColor=white)
