@@ -27,7 +27,7 @@
 ### My usual IDEA
 ![Static Badge](https://img.shields.io/badge/-visual_studio-purple?style=for-the-badge&logo=visualstudio)
 ![Static Badge](https://img.shields.io/badge/-Visual_Studio_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Vim-greem?style=for-the-badge&logo=vim&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-NVim-greem?style=for-the-badge&logo=neovim&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-intellij_idea-red?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=white)
 
