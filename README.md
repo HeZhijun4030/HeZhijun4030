@@ -30,3 +30,8 @@
 ![Static Badge](https://img.shields.io/badge/-Vim-greem?style=for-the-badge&logo=vim&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Pycharm-green?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/-intellij_idea-red?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=white)
+
+---
+
+> In sin we both partake, yet it's mercy you doth forsake.What's real this time?Simply feel and find the meaning. 
+> 我们同在罪恶之中,你却选择宽恕.此时此刻,何为真实?只需感受并探寻其意义.
