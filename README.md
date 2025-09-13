@@ -32,11 +32,13 @@
 ### 🚀 Tech Stack
 
 **Languages:**
+
 ![Static Badge](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=green)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/the_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **IDEs & Tools:**
+
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-NVim-greem?style=for-the-badge&logo=neovim&logoColor=white)
@@ -54,5 +56,4 @@
 > In sin we both partake, yet it's mercy you doth forsake. What's real this time? Simply feel and find the meaning.  
 
 > 我们同在罪恶之中，你却选择宽恕。此时此刻，何为真实？只需感受并探寻其意义。
-<img src="yahweh.jpeg"  />
----
+<img src="yahweh.jpeg" width="70%" />
