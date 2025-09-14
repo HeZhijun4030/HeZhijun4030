@@ -43,7 +43,7 @@
 
 **The SUPREME symbol:**
 
-<img src="god.jpg" width="150" height="100" />
+<img src="https://s21.ax1x.com/2025/09/14/pVWX1Bt.jpg" width="150" height="100" />
 
 ---
 
@@ -59,4 +59,4 @@
 > In sin we both partake, yet it's mercy you doth forsake. What's real this time? Simply feel and find the meaning.  
 
 > 我们同在罪恶之中，你却选择宽恕。此时此刻，何为真实？只需感受并探寻其意义。
-<img src="yahweh.jpeg" width="100%" />
+<img src="https://s21.ax1x.com/2025/09/14/pVWXacj.jpg" width="100%" />
