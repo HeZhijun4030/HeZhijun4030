@@ -6,10 +6,7 @@
 > Open your eyes we are just alone.
 ---
 
-<div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=HeZhijun4030&show_icons=true&theme=github_dark&hide_border=true&card_width=150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeZhijun4030&layout=compact&theme=github_dark&hide_border=true&card_width=150" />
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HeZhijun4030&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
 
 
 ### 😨 About Me  
