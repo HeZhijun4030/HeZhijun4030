@@ -21,7 +21,7 @@
 
 ### 🚀 Tech Stack
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HeZhijun4030&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HeZhijun4030&show_icons=true&theme=github_dark&card_width=350&card_height=200"/>
 
 #### **Languages:**
 
@@ -38,9 +38,9 @@
 
 [![skills](https://skillicons.dev/icons?i=godot,kali,linux,ubuntu,ae,ps,pr,qt,bash,powershell)](https://space.bilibili.com/1627740736)
 
-[![skills2]( https://img.shields.io/badge/Wireshark-green?style=flat-square&logo=Wireshark&&labelColor=blue)](https://space.bilibili.com/1627740736)
-[![skills2]( https://img.shields.io/badge/Forge_Minecraft_modding-black?style=flat-square&logo=curseforge&labelColor=grey)](https://space.bilibili.com/1627740736)
-[![skills2]( https://img.shields.io/badge/UT_Animations_or_PVs-purple?style=flat-square&logo=undertale&labelColor=ff0000)](https://space.bilibili.com/1627740736)
+[![skills2]( https://img.shields.io/badge/Wireshark-green?style=for-the-badge&logo=Wireshark&&labelColor=blue)](https://space.bilibili.com/1627740736)
+[![skills2]( https://img.shields.io/badge/Forge_Minecraft_modding-black?style=for-the-badge&logo=curseforge&labelColor=grey)](https://space.bilibili.com/1627740736)
+[![skills2]( https://img.shields.io/badge/UT_Animations_or_PVs-purple?style=for-the-badge&logo=undertale&labelColor=ff0000)](https://space.bilibili.com/1627740736)
 
 ### **Bases:**
 [![skills2]( https://img.shields.io/badge/Bilibili-blue?style=flat-square&logo=bilibili&labelColor=white)](https://space.bilibili.com/1627740736)
