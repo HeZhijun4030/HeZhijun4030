@@ -6,7 +6,7 @@
 > Open your eyes we are just alone.
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HeZhijun4030&show_icons=true&theme=github_dark&card_width=450&card_height=200"/>
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeZhijun4030&layout=compact&theme=github_dark&card_width=350&card_height=200"/>
 
@@ -20,6 +20,8 @@
 
 
 ### 🚀 Tech Stack
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HeZhijun4030&show_icons=true&theme=github_dark&card_width=350&card_height=200"/>
 
 #### **Languages:**
 
