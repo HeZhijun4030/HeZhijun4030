@@ -8,8 +8,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeZhijun4030&layout=compact&theme=github_dark&card_width=350&card_height=200"/>
-
+<img align="right" src="https://mu-github-stats.vercel.app/api?username=HeZhijun4030&show_icons=true&theme=github_dark&card_width=350&card_height=200"/>
 ### 😨 About Me  
 - A middle school student 
 - Constantly exploring and expanding my coding skills
@@ -21,7 +20,8 @@
 
 ### 🚀 Tech Stack
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HeZhijun4030&show_icons=true&theme=github_dark&card_width=350&card_height=200"/>
+<img align="right" src="https://mu-github-stats.vercel.app/api/top-langs/?username=He Zhijun4030&layout=compact&theme=github_dark&card_width=350&card_height=200"/>
+
 
 #### **Languages:**
 
